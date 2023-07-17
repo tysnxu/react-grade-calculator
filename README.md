@@ -1,70 +1,23 @@
-# Getting Started with Create React App
+# Grade Calculator
+A project written in React JS, which allows users to input marks, maximum points, percentage and calculate the final percentage.
+While also achieving smooth animations and nice UI design.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### WHAT IF mode
+The What If mode takes the remaining percentage of the subject marks, and shows all the possible final marks when the student gets HD (85+), D(75+), C(65+), and P(50+).
 
-## Available Scripts
 
-In the project directory, you can run:
+## Demo
+#### Input grade, maximum possible grade, and assessment precentage
+![](https://github.com/tysnxu/react-grade-calculator/blob/602238730b4c2f1b161b177a15c156346d135a0a/demo_gifs/01.gif)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+#### React JS provided quick and easy global update upon value change
+![](https://github.com/tysnxu/react-grade-calculator/blob/602238730b4c2f1b161b177a15c156346d135a0a/demo_gifs/02.gif)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+#### Shadow on Hover Effects
+![](https://github.com/tysnxu/react-grade-calculator/blob/602238730b4c2f1b161b177a15c156346d135a0a/demo_gifs/03.gif)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#### Small Details
+![](https://github.com/tysnxu/react-grade-calculator/blob/602238730b4c2f1b161b177a15c156346d135a0a/demo_gifs/04.gif)
