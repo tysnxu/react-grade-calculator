@@ -2,7 +2,10 @@
 A project written in React JS, which allows users to input marks, maximum points, percentage and calculate the final percentage.
 While also achieving smooth animations and nice UI design.
 
-### WHAT IF mode
+Project is live at [tysnxu-grade-calculator.netlify.app](https://tysnxu-grade-calculator.netlify.app/)
+
+
+## WHAT IF mode
 The What If mode takes the remaining percentage of the subject marks, and shows all the possible final marks when the student gets HD (85+), D(75+), C(65+), and P(50+).
 
 
